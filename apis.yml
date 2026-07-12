@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://mempool.space/api
 common:
+  - type: DomainSecurity
+    url: security/mempool-domain-security.yml
   - type: Website
     url: https://mempool.space/api
   - type: PublicAPIsListing
