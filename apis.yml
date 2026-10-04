@@ -39,7 +39,6 @@ apis:
   - name: Mempool
     description: "Bitcoin API Service focusing on the transaction fee"
     humanURL: https://mempool.space/api
-    baseURL: https://mempool.space/api
     tags:
       - Cryptocurrency
     properties:
